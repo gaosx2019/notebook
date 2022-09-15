@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknotebook=self.webpackChunknotebook||[]).push([[9961],{5092:o=>{o.exports=JSON.parse('{"label":"mini-program","permalink":"/notebook/blog/tags/mini-program","allTagsPath":"/notebook/blog/tags","count":1}')}}]);
